@@ -15,4 +15,4 @@ Om vi lagrer denne teksten i en fil som vi f.eks. kaller for helloWorld.py og kj
 Gjør endringer i filen som kalles oppgave1.py slik at programmet skriver ut navnet ditt, hvor gammel du er og en interresse du har. Husk at man må ha med hermetegn (") om man skal skrive tekst.
 
 ## Oppgave 2
-I filen oppgave2.py er det noen feil som gjør at man får opp noen feilmeldinger. Forsøk å rette opp i disse feilene slik at programmet fungerer slik det skal. 
+I filen oppgave2.py er det skrevet noe kode som er kommentert ut med en #. Ta bort denne hashtaggen for en og en linje, kjør programmet og rett opp i eventuelle feil. Når du er ferdig skal alle linjene kunne kjøre uten å ha en # foran seg. Om du fikk til dette fint er det en liten nøtt i bunnen av scriptet du kan prøve deg på!
